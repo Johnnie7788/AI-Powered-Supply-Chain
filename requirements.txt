@@ -1,0 +1,16 @@
+#dependencies
+
+streamlit
+plotly
+pandas
+numpy
+scikit-learn
+statsmodels
+tensorflow
+keras
+matplotlib
+seaborn
+geopy
+networkx
+scipy
+setuptools  
